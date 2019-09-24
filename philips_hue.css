@@ -1,0 +1,13 @@
+body {
+  font-family: arial;
+  color: red;
+  background-color: black;
+}
+
+#h1_2 {
+  text-align: center;
+}
+
+lijst {
+  display:table; margin:0 auto;
+}
